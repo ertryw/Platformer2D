@@ -1,13 +1,13 @@
 Usage:
 
-Zenject
+ --Zenject
 
-Input Sytem
+ --Input Sytem
 
 Control:
-	Move-arrows, gamepad
-	
-	Jump-up arrow, gamepad
-	
-	Attack-space, gamepad X
-	
+
+Move	arrows gamepad
+
+Jump	up arrow gamepad
+
+Attack	space gamepad X
