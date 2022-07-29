@@ -426,5 +426,4 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-My project/Temp/*
-My project/Library/*
+
