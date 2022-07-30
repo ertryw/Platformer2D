@@ -1,17 +1,18 @@
-Usage:
+# Used:
 
- --Zenject
 
- --Input Sytem
+* Zenject
 
-Control:
+* Input Sytem
 
-Move	arrows gamepad
+# Control:
 
-Jump	up arrow gamepad
+* [Move]	Arrows, gamepad
 
-Attack	space gamepad X
+* [Jump]	Up arrow, gamepad
 
-Made with:
+* [Attack] Space, gamepad X
+
+# Technology:
 
 Unity 2020.3.36f1
